@@ -8,5 +8,5 @@ How the stores compare in their performance?
 # Project Components  
 1. Having 4 questions of interets; 
 2. Using supporting **SQL** queries to answer the questions; 
-3. Using **Excel** to visualize the final data; 
+3. Using **Excel Charts** to visualize the final data; 
 
