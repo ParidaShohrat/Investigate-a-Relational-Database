@@ -11,9 +11,10 @@ The Sakila Database holds information about a company that rents movie DVDs. The
 # Project Objective
 For this project, I used **PostgreSQL** to query the database to gain an understanding of the customer base, such as:
 
-1. what the patterns in movie watching are across different customer groups?
-2. How they compare on payment earnings?
-3. How the stores compare in their performance? 
+What categories of movies are families watching?
+What is the difference in the rental duration of family movies in four quartiles?
+What is the difference in rental numbers in the two stores?
+Who were the top 10 paying customers?
 
 # Project Components  
 1. Having **4** questions of interets; 
