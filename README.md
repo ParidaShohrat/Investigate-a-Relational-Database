@@ -33,7 +33,7 @@ There are 15 tables in the DVD Rental database:
 - city – stores city names.
 - country – stores country names.
 >
-# Project Objective#
+# Project Objective #
 
 For this project, I used **PostgreSQL** to query the database to gain an understanding of the customer base, such as:
 
